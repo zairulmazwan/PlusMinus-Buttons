@@ -1,0 +1,20 @@
+.bColor button{
+  background-color: #9c2263;
+  border: none;
+}
+
+.bColor button:hover{
+  background-color: #19914b;
+  border: none;
+}
+
+/* Chrome, Safari, Edge, Opera - to hide arrows from input (comment this class out to see the difference)*/
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input {
+  text-align:center;
+}
